@@ -13,4 +13,4 @@
 
 - LINK SNACK https://snack.expo.dev/@cellyn-c/p04-mymood-253303620011-cellyn
 - LINK TEORI https://docs.google.com/document/d/1yyS73Zh2pwa3lKrJqdPBd3wXWUlXszMwO20ZT1_a-xw/edit?usp=sharing
->>>>>>> cad83dd7648db16cc44aca5b5a297e38f337a5e5
+
